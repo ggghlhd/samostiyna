@@ -29,7 +29,8 @@ body {
 .second-square,
 .third-square,
 .fourth-square,
-.fifth-square {
+.fifth-square,
+.sixth-square {
   justify-content: space-between;
 }
 .second-square .cirlce:last-child,
